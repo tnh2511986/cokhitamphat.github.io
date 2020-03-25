@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Gia Công Cơ Khí Tâm Phát</title>
+    <link>www.example.com/pages/</link>
+    <description>Recent content in Pages on Gia Công Cơ Khí Tâm Phát</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-Vn</language>
+    <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
+    
+	<atom:link href="www.example.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>History</title>
+      <link>www.example.com/history/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>www.example.com/history/</guid>
+      <description>About Heading </description>
+    </item>
+    
+    <item>
+      <title>Về Chúng Tôi</title>
+      <link>www.example.com/ve-chung-toi/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>www.example.com/ve-chung-toi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

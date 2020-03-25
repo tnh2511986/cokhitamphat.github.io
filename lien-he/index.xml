@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liên Hệ on Gia Công Cơ Khí Tâm Phát</title>
+    <link>www.example.com/lien-he/</link>
+    <description>Recent content in Liên Hệ on Gia Công Cơ Khí Tâm Phát</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-Vn</language>
+    <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate>
+    
+	<atom:link href="www.example.com/lien-he/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
